@@ -1,0 +1,14 @@
+/home/hey/x3solutions/netProject/bin/Debug/netcoreapp2.1/netProject.deps.json
+/home/hey/x3solutions/netProject/bin/Debug/netcoreapp2.1/netProject.runtimeconfig.json
+/home/hey/x3solutions/netProject/bin/Debug/netcoreapp2.1/netProject.runtimeconfig.dev.json
+/home/hey/x3solutions/netProject/bin/Debug/netcoreapp2.1/netProject.dll
+/home/hey/x3solutions/netProject/bin/Debug/netcoreapp2.1/netProject.pdb
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.csprojAssemblyReference.cache
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.csproj.CoreCompileInputs.cache
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.RazorAssemblyInfo.cache
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.RazorAssemblyInfo.cs
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.AssemblyInfoInputs.cache
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.AssemblyInfo.cs
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.RazorTargetAssemblyInfo.cache
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.dll
+/home/hey/x3solutions/netProject/obj/Debug/netcoreapp2.1/netProject.pdb
